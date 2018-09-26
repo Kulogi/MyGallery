@@ -2,7 +2,7 @@
 
 Our UI Gallery website is https://ui-gallery-extension.herokuapp.com/.
 
-##Python Files
+## Python Files
 
 All these python files are used to created some related documents like widgets or json file which will be used later in the UI project.
 
@@ -51,5 +51,3 @@ widgets.json / company.json (is also in our respository)
 
 Yuyang Wang
 Email: Tony970412@gmail.com
-
-"# UI-Gallery-Extension" 
