@@ -21,7 +21,7 @@ The data stored in MongoDB is within the `widgets` collection with the following
 widgets.json / company.json (is also in our respository)
 ```json
 { 
-  "_id" : ObjectId("5ac23b7e27bc4099fb9fb172"), 
+  "_id" : "5ac23b7e27bc4099fb9fb172", 
   "name" : "clipping-1265", 
   "clickable" : "true", 
   "color" : "Black", 
